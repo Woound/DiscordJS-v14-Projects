@@ -1,0 +1,9 @@
+{
+  "mainChannel": "Channel ID of Where You want to output all pins.",
+  "sourceChannels": [
+    "Channel IDs",
+    "From where you want to",
+    "retrive all pins"
+  ],
+  "devs": ["Authorized user's IDs to run the command."]
+}
